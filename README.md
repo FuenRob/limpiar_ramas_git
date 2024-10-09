@@ -1,4 +1,4 @@
-# Git Branch Cleaner 🧹
+# Limpiador de ramas de Git 🧹
 
 Este script en Bash te ayuda a limpiar de manera rápida y segura las ramas locales de Git que ya han sido mergeadas o que no tienen una referencia remota (por ejemplo, después de haber sido eliminadas en el repositorio remoto).
 
